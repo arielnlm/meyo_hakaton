@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "540737439716",
+    "project_id": "meyo-impact",
+    "storage_bucket": "meyo-impact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540737439716:android:95b5031b62934ad2b969f1",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app_ui_with_login_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVihDt2li8KLBPnBCjTO_CAGOanQAoCmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540737439716-69q7c15vrmm8fc2cfb0eaj1inj6emmi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAppUiWithLoginBackend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540737439716:android:226d7e18b0934587b969f1",
+        "android_client_info": {
+          "package_name": "com.example.meyo_impact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVihDt2li8KLBPnBCjTO_CAGOanQAoCmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540737439716-69q7c15vrmm8fc2cfb0eaj1inj6emmi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAppUiWithLoginBackend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540737439716:android:48957c222c55aebab969f1",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVihDt2li8KLBPnBCjTO_CAGOanQAoCmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540737439716-69q7c15vrmm8fc2cfb0eaj1inj6emmi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAppUiWithLoginBackend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540737439716:android:71bbeb1c64f4b123b969f1",
+        "android_client_info": {
+          "package_name": "com.meyoimpact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540737439716-j468vskjf472rfapeaqc801lma4jcoem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meyoimpact",
+            "certificate_hash": "2ed6c5cce3e73ec6fa0b5effe668c8f869c6db64"
+          }
+        },
+        {
+          "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVihDt2li8KLBPnBCjTO_CAGOanQAoCmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540737439716-gcko33kdei9umnrrvsv8v15gg43atm6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540737439716-69q7c15vrmm8fc2cfb0eaj1inj6emmi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAppUiWithLoginBackend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
